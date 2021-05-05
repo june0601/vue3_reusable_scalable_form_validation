@@ -28,7 +28,7 @@ npm install semantic-ui-css --save
 
 main.js 
 
-import '../semantic/dist/semantic.min.css'
+import 'semantic-ui-css/semantic.min.css'
 
 ### vue puppeteer@1.20.0 install: `node install.js`
 https://github.com/puppeteer/puppeteer/issues/1597
