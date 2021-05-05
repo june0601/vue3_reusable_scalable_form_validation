@@ -25,7 +25,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Semantic UI Vue
 npm install semantic-ui-css --save
+
 main.js 
+
 import '../semantic/dist/semantic.min.css'
 
 ### vue puppeteer@1.20.0 install: `node install.js`
