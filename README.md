@@ -30,11 +30,17 @@ import '../semantic/dist/semantic.min.css'
 
 ### vue puppeteer@1.20.0 install: `node install.js`
 https://github.com/puppeteer/puppeteer/issues/1597
-
+```
 npm config set puppeteer_download_host=https://npm.taobao.org/mirrors
+
 npm i puppeteer
-
+```
 or
-
+```
 npm install -g cnpm --registry=https://registry.npm.taobao.org
+
 cnpm i puppeteer
+```
+
+### Exercise From 
+https://softauthor.com/vue-js-3-composition-api-reusable-scalable-form-validation/#Reusable-Login-Page-Validation
